@@ -1,0 +1,38 @@
+img {
+	width: 160px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+body {
+	background-color: #1b1b1b;
+}
+
+.header {
+	background-color: #1b1b1b;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.header p {
+	font-size: 16px;
+	font-weight: 600;
+	color: #111;
+}
+
+.interface img {
+	margin: 0 20px;
+	width: 220px;
+}
+
+.arena {
+	width: 300px;
+}
